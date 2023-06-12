@@ -48,11 +48,14 @@ function App() {
             <div>
             <LogicPanel />
             </div>
+            <div className='text-white'>Developed By: Arpit Garg</div>
+            <div className='text-white'>Contact: arpit1722@gmail.com</div>
           </div>
         </div>
         
       
       </div>
+      
     </div>
   );
 }
